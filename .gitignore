@@ -21,3 +21,8 @@ Thumbs.db
 
 # Temporary logs
 *.log
+
+# SQLite Database
+*.db
+*.sqlite
+*.sqlite3
